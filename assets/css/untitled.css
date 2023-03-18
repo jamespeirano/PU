@@ -80,3 +80,15 @@
   object-fit: cover;
 }
 
+.copyright {
+  font-size: 44.4px;
+}
+
+footer span.copyright {
+  font-size: 44px;
+  line-height: 40px;
+  text-transform: none;
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin: 10px;
+}
+
